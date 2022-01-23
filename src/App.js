@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
 import Main from "./components/Main/Main";
 import MobileMenu from "./components/MobileMenu/MobileMenu";
@@ -31,7 +31,7 @@ function App() {
 
 
   return (
-    <BrowserRouter>
+    <HashRouter>
     <Navbar
     toggleMenuMobile={toggleMenuMobile}
     toggleMenuDesktop={toggleMenuDesktop}
@@ -55,7 +55,7 @@ function App() {
    <Route exact path="/account" element={<MyAccount/>} />
    <Route exact path="/email" element={<Email renderLoginSite={()=> (<Login />)}/>} />
     </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
