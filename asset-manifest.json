@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/e-shop/static/css/main.d5b4c395.css",
+    "main.js": "/e-shop/static/js/main.f08afd6b.js",
+    "static/media/y_bike.jpg": "/e-shop/static/media/y_bike.cd21ffab862870b81281.jpg",
+    "static/media/my_bike.jpg": "/e-shop/static/media/my_bike.330af3bd302be759a625.jpg",
+    "static/media/bike.jpg": "/e-shop/static/media/bike.2ea64e895889d4feb3b1.jpg",
+    "static/media/logo_yard_sale.svg": "/e-shop/static/media/logo_yard_sale.6d98da71f7a1ec368eab5160ecc06909.svg",
+    "static/media/bt_add_to_cart.svg": "/e-shop/static/media/bt_add_to_cart.d6e969538a58d48c9495247caf64324d.svg",
+    "static/media/icon_shopping_cart.svg": "/e-shop/static/media/icon_shopping_cart.995748b73b8792b4b60fd1ed0515faaa.svg",
+    "static/media/email.svg": "/e-shop/static/media/email.d489057c8adcd753b8dc8fe27c137b2e.svg",
+    "static/media/icon_menu.svg": "/e-shop/static/media/icon_menu.3ebff34167c36968ae6f8c8990cf7003.svg",
+    "static/media/flechita.svg": "/e-shop/static/media/flechita.5634ade2a3a788cac60b3d06a4242587.svg",
+    "index.html": "/e-shop/index.html",
+    "main.d5b4c395.css.map": "/e-shop/static/css/main.d5b4c395.css.map",
+    "main.f08afd6b.js.map": "/e-shop/static/js/main.f08afd6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b4c395.css",
+    "static/js/main.f08afd6b.js"
+  ]
+}
