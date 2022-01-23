@@ -16,7 +16,7 @@ function Login(props) {
         <label for="password" className="label">Password</label>
         <input type="password" id="password" placeholder="*********" className="login-input login-input-password"/>
 
-        <button type="submit" className="primary-button login-button"><Link to="/">Log in</Link></button>
+        <button type="submit" className="login-primary-button login-button" disabled><Link to="/">Log in</Link></button>
         <Link to="/email">Forgot my password</Link>
       </form>
 
