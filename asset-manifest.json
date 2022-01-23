@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-shop/static/css/main.b3c49cb1.css",
-    "main.js": "/e-shop/static/js/main.de0db953.js",
+    "main.css": "/e-shop/static/css/main.e9ff5853.css",
+    "main.js": "/e-shop/static/js/main.520bb08e.js",
     "static/media/y_bike.jpg": "/e-shop/static/media/y_bike.cd21ffab862870b81281.jpg",
     "static/media/my_bike.jpg": "/e-shop/static/media/my_bike.330af3bd302be759a625.jpg",
     "static/media/bike.jpg": "/e-shop/static/media/bike.2ea64e895889d4feb3b1.jpg",
@@ -12,11 +12,11 @@
     "static/media/icon_menu.svg": "/e-shop/static/media/icon_menu.3ebff34167c36968ae6f8c8990cf7003.svg",
     "static/media/flechita.svg": "/e-shop/static/media/flechita.5634ade2a3a788cac60b3d06a4242587.svg",
     "index.html": "/e-shop/index.html",
-    "main.b3c49cb1.css.map": "/e-shop/static/css/main.b3c49cb1.css.map",
-    "main.de0db953.js.map": "/e-shop/static/js/main.de0db953.js.map"
+    "main.e9ff5853.css.map": "/e-shop/static/css/main.e9ff5853.css.map",
+    "main.520bb08e.js.map": "/e-shop/static/js/main.520bb08e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3c49cb1.css",
-    "static/js/main.de0db953.js"
+    "static/css/main.e9ff5853.css",
+    "static/js/main.520bb08e.js"
   ]
 }
